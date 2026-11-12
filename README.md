@@ -94,7 +94,7 @@ Add your screenshots to the `screenshots/` folder, then replace the example imag
 
 ### SQL  Quary Screenshots
 
-![SQL Quary screenshort](screenshots/sql-quary-screenshots.png)
+![SQL Quary screenshort](screenshots/sql-quary.png)
 
 ## How to Run the Project
 
